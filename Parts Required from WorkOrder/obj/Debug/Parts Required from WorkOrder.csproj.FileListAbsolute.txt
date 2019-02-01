@@ -1,0 +1,22 @@
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\Parts Required from WorkOrder\Parts Required from WorkOrder\obj\Debug\Parts Required from WorkOrder.csprojResolveAssemblyReference.cache
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\Parts Required from WorkOrder\Parts Required from WorkOrder\obj\Debug\Parts_Required_from_WorkOrder.ProgressForm.resources
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\Parts Required from WorkOrder\Parts Required from WorkOrder\obj\Debug\Parts_Required_from_WorkOrder.Properties.Resources.resources
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\Parts Required from WorkOrder\Parts Required from WorkOrder\obj\Debug\Parts Required from WorkOrder.csproj.GenerateResource.Cache
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\Parts Required from WorkOrder\Parts Required from WorkOrder\bin\Debug\Parts Required from WorkOrder.dll.config
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\Parts Required from WorkOrder\Parts Required from WorkOrder\bin\Debug\Parts Required from WorkOrder.dll
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\Parts Required from WorkOrder\Parts Required from WorkOrder\bin\Debug\Parts Required from WorkOrder.pdb
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\Parts Required from WorkOrder\Parts Required from WorkOrder\bin\Debug\RightNow.AddIns.AddInViews.dll
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\Parts Required from WorkOrder\Parts Required from WorkOrder\bin\Debug\RightNow.AddIns.AddInViews.xml
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\Parts Required from WorkOrder\Parts Required from WorkOrder\obj\Debug\Parts Required from WorkOrder.dll
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\Parts Required from WorkOrder\Parts Required from WorkOrder\obj\Debug\Parts Required from WorkOrder.pdb
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\bin\Debug\Parts Required from WorkOrder.dll.config
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\bin\Debug\Parts Required from WorkOrder.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\bin\Debug\Parts Required from WorkOrder.pdb
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\bin\Debug\RightNow.AddIns.AddInViews.xml
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\obj\Debug\Parts_Required_from_WorkOrder.ProgressForm.resources
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\obj\Debug\Parts_Required_from_WorkOrder.Properties.Resources.resources
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\obj\Debug\Parts Required from WorkOrder.csproj.GenerateResource.Cache
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\obj\Debug\Parts Required from WorkOrder.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\obj\Debug\Parts Required from WorkOrder.pdb
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\bin\Debug\RightNow.AddIns.AddInViews.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\obj\Debug\Parts Required from WorkOrder.csprojResolveAssemblyReference.cache

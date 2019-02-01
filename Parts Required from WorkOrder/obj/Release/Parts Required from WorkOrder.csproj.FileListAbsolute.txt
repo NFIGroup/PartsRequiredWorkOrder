@@ -1,0 +1,10 @@
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\obj\Release\Parts_Required_from_WorkOrder.ProgressForm.resources
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\obj\Release\Parts_Required_from_WorkOrder.Properties.Resources.resources
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\obj\Release\Parts Required from WorkOrder.csproj.GenerateResource.Cache
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\bin\Release\Parts Required from WorkOrder.dll.config
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\bin\Release\Parts Required from WorkOrder.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\bin\Release\Parts Required from WorkOrder.pdb
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\bin\Release\RightNow.AddIns.AddInViews.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\bin\Release\RightNow.AddIns.AddInViews.xml
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\obj\Release\Parts Required from WorkOrder.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required from WorkOrder\Parts Required from WorkOrder\obj\Release\Parts Required from WorkOrder.pdb
